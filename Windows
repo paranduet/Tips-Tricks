@@ -1,0 +1,2 @@
+Activate Windows for 180 using the following command:
+>> slmgr.vbs -rearm
